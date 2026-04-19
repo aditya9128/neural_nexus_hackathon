@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Environment
+.env
+
+# Training artifacts
+*.pth
+*.pt
+*.ckpt
+*.parquet
+*.csv
+*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Frontend / Node
+node_modules/
+dist/
+build/
+
+# Archived repo metadata
+.git-upstream-backup/

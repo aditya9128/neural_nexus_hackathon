@@ -16,9 +16,14 @@ venv/
 *.pth
 *.pt
 *.ckpt
+*.onnx
+*.safetensors
+*.bin
 *.parquet
 *.csv
 *.png
+models/
+checkpoints/
 
 # OS / editor
 .DS_Store
